@@ -1,2 +1,6 @@
-# custom-tf-plugin
-Custom terraform or tofu plugin 
+# custom-tf-provider
+
+
+Blog post about writing your own custom terraform or tofu provider 
+
+ 
